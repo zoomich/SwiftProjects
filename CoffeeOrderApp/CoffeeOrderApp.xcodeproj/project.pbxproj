@@ -16,6 +16,7 @@
 		0433E4662C2250B900089E04 /* CoffeeOrderAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0433E4652C2250B900089E04 /* CoffeeOrderAppUITestsLaunchTests.swift */; };
 		0433E4742C22510000089E04 /* Webservice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0433E4732C22510000089E04 /* Webservice.swift */; };
 		0433E4772C22519E00089E04 /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0433E4762C22519E00089E04 /* Order.swift */; };
+		0433E4792C225A1400089E04 /* CoffeeModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0433E4782C225A1400089E04 /* CoffeeModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		0433E4652C2250B900089E04 /* CoffeeOrderAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoffeeOrderAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		0433E4732C22510000089E04 /* Webservice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Webservice.swift; sourceTree = "<group>"; };
 		0433E4762C22519E00089E04 /* Order.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Order.swift; sourceTree = "<group>"; };
+		0433E4782C225A1400089E04 /* CoffeeModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoffeeModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -145,6 +147,7 @@
 			isa = PBXGroup;
 			children = (
 				0433E4762C22519E00089E04 /* Order.swift */,
+				0433E4782C225A1400089E04 /* CoffeeModel.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -280,6 +283,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0433E44B2C2250B800089E04 /* ContentView.swift in Sources */,
+				0433E4792C225A1400089E04 /* CoffeeModel.swift in Sources */,
 				0433E4492C2250B800089E04 /* CoffeeOrderAppApp.swift in Sources */,
 				0433E4772C22519E00089E04 /* Order.swift in Sources */,
 				0433E4742C22510000089E04 /* Webservice.swift in Sources */,
