@@ -3,4 +3,38 @@
    uuid = "40586CE9-F157-4C5C-B4F3-44E8F9CA344A"
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4BB9420E-51DF-414B-B7E0-2AFB6E0F9092"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../var/folders/qs/2t1033pn4t3b_lz4l4g1lnjm0000gp/T/swift-generated-sources/@__swiftmacro_14CoffeeOrderApp33_DB738FB75441E1B0E9C6BB03819B9FC7Ll7PreviewfMf_.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1"
+            endingLineNumber = "1"
+            landmarkName = "$s14CoffeeOrderApp33_DB738FB75441E1B0E9C6BB03819B9FC7Ll7PreviewfMf_15PreviewRegistryfMu_"
+            landmarkType = "37">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ACF72271-21B6-484E-9CD0-808C9ADFC257"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../var/folders/qs/2t1033pn4t3b_lz4l4g1lnjm0000gp/T/swift-generated-sources/@__swiftmacro_14CoffeeOrderApp33_DB738FB75441E1B0E9C6BB03819B9FC7Ll7PreviewfMf_.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2"
+            endingLineNumber = "2"
+            landmarkName = "$s14CoffeeOrderApp33_DB738FB75441E1B0E9C6BB03819B9FC7Ll7PreviewfMf_15PreviewRegistryfMu_"
+            landmarkType = "37">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>

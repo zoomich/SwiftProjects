@@ -19,6 +19,7 @@
 		0433E4792C225A1400089E04 /* CoffeeModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0433E4782C225A1400089E04 /* CoffeeModel.swift */; };
 		0433E47C2C22914300089E04 /* NumberFormatter+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0433E47B2C22914300089E04 /* NumberFormatter+Extensions.swift */; };
 		0433E47F2C22929200089E04 /* OrderCellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0433E47E2C22929200089E04 /* OrderCellView.swift */; };
+		0433E4822C22944300089E04 /* AppEnvironment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0433E4812C22944300089E04 /* AppEnvironment.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,7 @@
 		0433E4782C225A1400089E04 /* CoffeeModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoffeeModel.swift; sourceTree = "<group>"; };
 		0433E47B2C22914300089E04 /* NumberFormatter+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "NumberFormatter+Extensions.swift"; sourceTree = "<group>"; };
 		0433E47E2C22929200089E04 /* OrderCellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderCellView.swift; sourceTree = "<group>"; };
+		0433E4812C22944300089E04 /* AppEnvironment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppEnvironment.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 		0433E4472C2250B800089E04 /* CoffeeOrderApp */ = {
 			isa = PBXGroup;
 			children = (
+				0433E4802C22943200089E04 /* Utils */,
 				0433E47D2C22928300089E04 /* Views */,
 				0433E47A2C22912900089E04 /* Extensions */,
 				0433E4752C22518F00089E04 /* Models */,
@@ -172,6 +175,14 @@
 				0433E47E2C22929200089E04 /* OrderCellView.swift */,
 			);
 			path = Views;
+			sourceTree = "<group>";
+		};
+		0433E4802C22943200089E04 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				0433E4812C22944300089E04 /* AppEnvironment.swift */,
+			);
+			path = Utils;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -309,6 +320,7 @@
 				0433E4792C225A1400089E04 /* CoffeeModel.swift in Sources */,
 				0433E47C2C22914300089E04 /* NumberFormatter+Extensions.swift in Sources */,
 				0433E4492C2250B800089E04 /* CoffeeOrderAppApp.swift in Sources */,
+				0433E4822C22944300089E04 /* AppEnvironment.swift in Sources */,
 				0433E4772C22519E00089E04 /* Order.swift in Sources */,
 				0433E4742C22510000089E04 /* Webservice.swift in Sources */,
 			);
